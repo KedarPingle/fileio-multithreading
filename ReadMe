@@ -1,4 +1,3 @@
 Read a file linewise
 pass on to callable instances
 output from callables to single file
-
